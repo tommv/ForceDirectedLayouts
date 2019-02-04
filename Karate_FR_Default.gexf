@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-01-24">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="indegree" title="In-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="outdegree" title="Out-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="34" label="34">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="degree" value="17"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="366.3548" y="-171.78877"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="indegree" value="16"></attvalue>
+          <attvalue for="degree" value="16"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="99.66105"></viz:size>
+        <viz:position x="-107.38387" y="730.91547"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="33" label="33">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="degree" value="12"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="95.04933"></viz:size>
+        <viz:position x="-36.47744" y="-408.73257"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="90.76282"></viz:size>
+        <viz:position x="3.0153077" y="3.4831603"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="88.0"></viz:size>
+        <viz:position x="-393.95908" y="-104.59118"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="76.24814"></viz:size>
+        <viz:position x="299.34583" y="707.5131"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="32" label="32">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="76.24814"></viz:size>
+        <viz:position x="910.69507" y="718.4467"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="9" label="9">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="70.65253"></viz:size>
+        <viz:position x="-1022.2456" y="-546.89624"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="14" label="14">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="70.65253"></viz:size>
+        <viz:position x="263.42673" y="303.88373"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="24" label="24">
+        <attvalues>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="70.65253"></viz:size>
+        <viz:position x="1060.9381" y="-482.84116"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="6" label="6">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="63.69597"></viz:size>
+        <viz:position x="-222.15813" y="1127.5786"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="7" label="7">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="63.69597"></viz:size>
+        <viz:position x="-1106.061" y="300.22678"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="8" label="8">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="63.69597"></viz:size>
+        <viz:position x="-223.51425" y="335.51413"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="28" label="28">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="63.69597"></viz:size>
+        <viz:position x="739.90857" y="17.16697"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="30" label="30">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="63.69597"></viz:size>
+        <viz:position x="790.97375" y="-839.92944"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="31" label="31">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="63.69597"></viz:size>
+        <viz:position x="-755.5276" y="-861.02"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="5" label="5">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="54.62895"></viz:size>
+        <viz:position x="-704.1366" y="208.18344"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="11" label="11">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="54.62895"></viz:size>
+        <viz:position x="-610.5837" y="988.7747"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="20" label="20">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="54.62895"></viz:size>
+        <viz:position x="-478.049" y="-555.80884"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="54.62895"></viz:size>
+        <viz:position x="1099.9241" y="333.1728"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="26" label="26">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="54.62895"></viz:size>
+        <viz:position x="1144.8362" y="-78.27306"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="29" label="29">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="54.62895"></viz:size>
+        <viz:position x="649.305" y="416.38376"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="10" label="10">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="41.515785"></viz:size>
+        <viz:position x="596.19464" y="988.684"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="13" label="13">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="41.515785"></viz:size>
+        <viz:position x="191.7461" y="1135.3301"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="15" label="15">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="41.515785"></viz:size>
+        <viz:position x="-113.66362" y="-796.4634"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="16" label="16">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="41.515785"></viz:size>
+        <viz:position x="40.420364" y="-1163.5571"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="17" label="17">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="41.515785"></viz:size>
+        <viz:position x="-939.8267" y="679.4339"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="18" label="18">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="41.515785"></viz:size>
+        <viz:position x="-1157.1661" y="-109.90819"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="19" label="19">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="41.515785"></viz:size>
+        <viz:position x="669.65375" y="-428.42288"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="21" label="21">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="41.515785"></viz:size>
+        <viz:position x="-408.99866" y="-1084.0885"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="22" label="22">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="41.515785"></viz:size>
+        <viz:position x="-771.17487" y="-229.23541"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="23" label="23">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="41.515785"></viz:size>
+        <viz:position x="316.2621" y="-667.0028"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="27" label="27">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="41.515785"></viz:size>
+        <viz:position x="440.5515" y="-1059.6841"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="12" label="12">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-532.6255" y="593.55225"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="78" source="2" target="1"></edge>
+      <edge id="79" source="3" target="1"></edge>
+      <edge id="80" source="3" target="2"></edge>
+      <edge id="81" source="4" target="1"></edge>
+      <edge id="82" source="4" target="2"></edge>
+      <edge id="83" source="4" target="3"></edge>
+      <edge id="84" source="5" target="1"></edge>
+      <edge id="85" source="6" target="1"></edge>
+      <edge id="86" source="7" target="1"></edge>
+      <edge id="87" source="7" target="5"></edge>
+      <edge id="88" source="7" target="6"></edge>
+      <edge id="89" source="8" target="1"></edge>
+      <edge id="90" source="8" target="2"></edge>
+      <edge id="91" source="8" target="3"></edge>
+      <edge id="92" source="8" target="4"></edge>
+      <edge id="93" source="9" target="1"></edge>
+      <edge id="94" source="9" target="3"></edge>
+      <edge id="95" source="10" target="3"></edge>
+      <edge id="96" source="11" target="1"></edge>
+      <edge id="97" source="11" target="5"></edge>
+      <edge id="98" source="11" target="6"></edge>
+      <edge id="99" source="12" target="1"></edge>
+      <edge id="100" source="13" target="1"></edge>
+      <edge id="101" source="13" target="4"></edge>
+      <edge id="102" source="14" target="1"></edge>
+      <edge id="103" source="14" target="2"></edge>
+      <edge id="104" source="14" target="3"></edge>
+      <edge id="105" source="14" target="4"></edge>
+      <edge id="106" source="17" target="6"></edge>
+      <edge id="107" source="17" target="7"></edge>
+      <edge id="108" source="18" target="1"></edge>
+      <edge id="109" source="18" target="2"></edge>
+      <edge id="110" source="20" target="1"></edge>
+      <edge id="111" source="20" target="2"></edge>
+      <edge id="112" source="22" target="1"></edge>
+      <edge id="113" source="22" target="2"></edge>
+      <edge id="114" source="26" target="24"></edge>
+      <edge id="115" source="26" target="25"></edge>
+      <edge id="116" source="28" target="3"></edge>
+      <edge id="117" source="28" target="24"></edge>
+      <edge id="118" source="28" target="25"></edge>
+      <edge id="119" source="29" target="3"></edge>
+      <edge id="120" source="30" target="24"></edge>
+      <edge id="121" source="30" target="27"></edge>
+      <edge id="122" source="31" target="2"></edge>
+      <edge id="123" source="31" target="9"></edge>
+      <edge id="124" source="32" target="1"></edge>
+      <edge id="125" source="32" target="25"></edge>
+      <edge id="126" source="32" target="26"></edge>
+      <edge id="127" source="32" target="29"></edge>
+      <edge id="128" source="33" target="3"></edge>
+      <edge id="129" source="33" target="9"></edge>
+      <edge id="130" source="33" target="15"></edge>
+      <edge id="131" source="33" target="16"></edge>
+      <edge id="132" source="33" target="19"></edge>
+      <edge id="133" source="33" target="21"></edge>
+      <edge id="134" source="33" target="23"></edge>
+      <edge id="135" source="33" target="24"></edge>
+      <edge id="136" source="33" target="30"></edge>
+      <edge id="137" source="33" target="31"></edge>
+      <edge id="138" source="33" target="32"></edge>
+      <edge id="139" source="34" target="9"></edge>
+      <edge id="140" source="34" target="10"></edge>
+      <edge id="141" source="34" target="14"></edge>
+      <edge id="142" source="34" target="15"></edge>
+      <edge id="143" source="34" target="16"></edge>
+      <edge id="144" source="34" target="19"></edge>
+      <edge id="145" source="34" target="20"></edge>
+      <edge id="146" source="34" target="21"></edge>
+      <edge id="147" source="34" target="23"></edge>
+      <edge id="148" source="34" target="24"></edge>
+      <edge id="149" source="34" target="27"></edge>
+      <edge id="150" source="34" target="28"></edge>
+      <edge id="151" source="34" target="29"></edge>
+      <edge id="152" source="34" target="30"></edge>
+      <edge id="153" source="34" target="31"></edge>
+      <edge id="154" source="34" target="32"></edge>
+      <edge id="155" source="34" target="33"></edge>
+    </edges>
+  </graph>
+</gexf>
